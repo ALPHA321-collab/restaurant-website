@@ -1,0 +1,13 @@
+[
+  {"id":1,"category":"Starters","name":"Seekh Kebab","desc":"Minced beef, green chili, coriander, grilled over charcoal.","price":650},
+  {"id":2,"category":"Starters","name":"Dahi Bhalla","desc":"Lentil dumplings, whipped yogurt, tamarind, chaat masala.","price":420},
+  {"id":3,"category":"Starters","name":"Chicken Malai Boti","desc":"Cream and cardamom marinade, finished on the coals.","price":720},
+  {"id":4,"category":"Mains","name":"Karahi Gosht","desc":"Mutton, tomato, ginger and green chili. Cooked to order in a wok.","price":2200},
+  {"id":5,"category":"Mains","name":"Nihari","desc":"Slow-cooked beef shank, eight-hour gravy, fresh ginger.","price":1450},
+  {"id":6,"category":"Mains","name":"Daal Makhani","desc":"Black lentils simmered overnight with butter and cream.","price":980},
+  {"id":7,"category":"Mains","name":"Chapli Burger","desc":"Peshawari chapli patty, pickled onion, mint chutney.","price":890},
+  {"id":8,"category":"Sweets","name":"Gulab Jamun","desc":"Two warm dumplings in rose and cardamom syrup.","price":380},
+  {"id":9,"category":"Sweets","name":"Kheer","desc":"Slow-set rice pudding with pistachio and saffron.","price":350},
+  {"id":10,"category":"Drinks","name":"Doodh Patti Chai","desc":"Strong tea boiled with milk and cardamom.","price":220},
+  {"id":11,"category":"Drinks","name":"Lassi","desc":"Sweet or salted, served in a steel glass.","price":300}
+]
